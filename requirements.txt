@@ -5,20 +5,8 @@ matplotlib
 seaborn
 scikit-learn
 scipy
-jupyter
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-scipy
 streamlit
-tensorflow
-keras
-pytorch
-xgboost
-lightgbm
 statsmodels
 plotly
-bokeh
+
 
