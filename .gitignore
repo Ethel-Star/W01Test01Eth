@@ -1,3 +1,7 @@
 # Ignore the virtual environment directory
 /pythonapp/Ethenv/
 
+notebooks/benin-malanville.csv
+notebooks/cleaned_data_file_benin.csv
+notebooks/sierraleone-bumbuna.csv
+notebooks/togo-dapaong_qc.csv
