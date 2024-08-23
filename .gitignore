@@ -1,5 +1,6 @@
 # Ignore the virtual environment directory
 /pythonapp/Ethenv/
+<<<<<<< HEAD
 benin-malanville.csv
 C:\Users\ethio\Desktop\Tenx.AIM2\Week0\ETtask\W01Test01Eth\notebooks\benin-malanville.csv
 cleaned_data_file_benin.csv
@@ -7,3 +8,11 @@ C:\Users\ethio\Desktop\Tenx.AIM2\Week0\ETtask\W01Test01Eth\notebooks
         notebooks/cleaned_data_file_sierraleeone.csv
         notebooks/sierraleone-bumbuna.csv
         notebooks/togo-dapaong_qc.csv
+=======
+
+notebooks/benin-malanville.csv
+notebooks/cleaned_data_file_benin.csv
+notebooks/sierraleone-bumbuna.csv
+notebooks/togo-dapaong_qc.csv
+notebooks/cleaned_data_file_sierraleeone.csv
+>>>>>>> 5be95b9523c688b7ffb0ff7157b98bc0c12689c1
