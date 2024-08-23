@@ -1,11 +1,14 @@
 # Ignore the virtual environment directory
 /pythonapp/Ethenv/
 
+# Ignore specific CSV files
+notebooks/cleaned_data_file_sierraleeone.csv
+notebooks/sierraleone-bumbuna.csv
+notebooks/togo-dapaong_qc.csv
+notebooks/cleaned_data_file_benin.csv
+notebooks/benin-malanville.csv
 
-        notebooks/cleaned_data_file_sierraleeone.csv
-        notebooks/sierraleone-bumbuna.csv
-        notebooks/togo-dapaong_qc.csv
-        notebooks/togo-dapaong_qc.csv
-        notebooks/cleaned_data_file_sierraleeone.csv
-        notebooks/cleaned_data_file_benin.csv
-        notebooks/benin-malanville.csv
+# If you want to ignore specific paths or patterns (add as needed)
+# e.g., ignore all CSV files in notebooks directory
+# notebooks/*.csv
+
