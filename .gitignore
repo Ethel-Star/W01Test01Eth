@@ -1,8 +1,9 @@
 # Ignore the virtual environment directory
-Ethenv/
-
-# Ignore specific CSV files
-notebooks/sierraleone-bumbuna.csv
-notebooks/benin-malanville.csv
-notebooks/cleaned_data_file_benin.csv
-notebooks/cleaned_data_file_sierraleeone.csv
+/pythonapp/Ethenv/
+benin-malanville.csv
+C:\Users\ethio\Desktop\Tenx.AIM2\Week0\ETtask\W01Test01Eth\notebooks\benin-malanville.csv
+cleaned_data_file_benin.csv
+C:\Users\ethio\Desktop\Tenx.AIM2\Week0\ETtask\W01Test01Eth\notebooks
+        notebooks/cleaned_data_file_sierraleeone.csv
+        notebooks/sierraleone-bumbuna.csv
+        notebooks/togo-dapaong_qc.csv
